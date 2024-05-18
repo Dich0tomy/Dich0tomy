@@ -8,7 +8,7 @@ Big fan of functional programming, Nix(OS) and all things terminal ;d
 
 ## Nice reads
 
-[**Grug brain dev on complexity**](https://grugbrain.dev/), complexity very, very bad
+[**Grug brain dev on complexity**](https://grugbrain.dev/), complexity very, very bad  
 [**Flakes aren't real**](https://jade.fyi/blog/flakes-arent-real/), when and how to use and not use flakes
 [**When should you choose C++ as your starting language?**](https://steelph0enix.github.io/posts/choosing-first-language/), C++ is a poor choice for a beginner  
 [**A Mathematician's Lament**](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf), how schools ruined mathematics  
