@@ -6,6 +6,10 @@ Self-taught developer pursuing constant self improvement. I mainly use C++, but 
 
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
+I keep my GitHub only to contribute and for projects which need CI (I still haven't up my own CI and/or git forge).
+
+![image](https://github.com/user-attachments/assets/500fe314-2057-4c43-9230-c53e2bea025f)
+
 ## Nice reads
 
 [**Grug brain dev on complexity**](https://grugbrain.dev/), complexity very, very bad  
