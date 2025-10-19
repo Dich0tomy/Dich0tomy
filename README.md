@@ -15,4 +15,5 @@ I only keep my GitHub to contribute to other projects and for projects which nee
 [**A Mathematician's Lament**](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf), how schools ruined mathematics  
 [**Learn In Public**](https://www.swyx.io/learn-in-public), how to learn and provide value for public  
 [**Wizard Zines**](https://wizardzines.com/), collection of funny comics and "zines" on a lot of technical topics
+
 ... and a bazillion more, but Ill leave these here since I added them a long time ago
