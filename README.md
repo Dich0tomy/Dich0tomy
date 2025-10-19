@@ -3,12 +3,9 @@
 > ~ Charlie Abrams, "State of Mind"
 
 Self-taught developer pursuing constant self improvement. I mainly use C++, but I fiddle with lots of other languages.
-
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
-I keep my GitHub only to contribute to other projects and for projects which need CI (I still haven't set up my own CI and git forge).
-
-![image](https://github.com/user-attachments/assets/500fe314-2057-4c43-9230-c53e2bea025f)
+I only keep my GitHub to contribute to other projects and for projects which need CI (haven't set up my own CI yet:tm:).
 
 ## Nice reads
 
@@ -18,3 +15,4 @@ I keep my GitHub only to contribute to other projects and for projects which nee
 [**A Mathematician's Lament**](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf), how schools ruined mathematics  
 [**Learn In Public**](https://www.swyx.io/learn-in-public), how to learn and provide value for public  
 [**Wizard Zines**](https://wizardzines.com/), collection of funny comics and "zines" on a lot of technical topics
+... and a bazillion more, but Ill leave these here since I added them a long time ago
