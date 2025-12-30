@@ -7,7 +7,7 @@
 Self-taught developer pursuing constant self improvement. I mainly use C++, but I fiddle with lots of other languages.
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
-I only keep my GitHub to contribute to other projects and for projects which need CI (haven't set up my own CI yet:tm:).
+I only keep my GitHub to contribute to other projects.
 
 ## Nice reads
 
