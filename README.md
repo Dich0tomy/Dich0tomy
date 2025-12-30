@@ -2,6 +2,8 @@
 >
 > ~ Charlie Abrams, "State of Mind"
 
+# Avid AI hater.
+
 Self-taught developer pursuing constant self improvement. I mainly use C++, but I fiddle with lots of other languages.
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
