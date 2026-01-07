@@ -3,6 +3,7 @@
 > ~ Charlie Abrams, "State of Mind"
 
 # Avid AI hater.
+<img height="232" alt="image" src="https://github.com/user-attachments/assets/b7dff0f0-a40a-40d4-a5b7-ff3c5c90a155" />
 
 Self-taught developer pursuing constant self improvement. I mainly use C++, but I fiddle with lots of other languages.
 Big fan of functional programming, Nix(OS) and all things terminal ;d
