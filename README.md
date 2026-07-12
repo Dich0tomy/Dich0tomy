@@ -11,7 +11,7 @@ Big fan of functional programming, Nix(OS) and all things terminal ;d
 I only keep my GitHub to contribute to other projects.
 
 ## Nice reads
-
+[**Parse, don't validate!**](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), please retain information in your types :p  
 [**Grug brain dev on complexity**](https://grugbrain.dev/), complexity very, very bad  
 [**Flakes aren't real**](https://jade.fyi/blog/flakes-arent-real/), when and how to use and not use flakes  
 [**When should you choose C++ as your starting language?**](https://steelph0enix.github.io/posts/choosing-first-language/), C++ is a poor choice for a beginner  
