@@ -5,7 +5,9 @@
 Self-taught developer pursuing constant self improvement. I mainly use C++, but I fiddle with lots of other languages.
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
-I only keep my GitHub to contribute to other projects.
+I only keep my GitHub to contribute to other projects. Find me on:
+- [tangled](https://tangled.org/Dich0tomy)
+- [codeberg](https://codeberg.org/Dich0tomy)
 
 ## Nice reads
 [**Parse, don't validate!**](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), please retain information in your types :p  
