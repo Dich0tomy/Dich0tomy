@@ -6,7 +6,7 @@ Self-taught developer pursuing constant self improvement. I mainly use C++, but 
 Big fan of functional programming, Nix(OS) and all things terminal ;d
 
 I only keep my GitHub to contribute to other projects. Find me on:
-- [tangled](https://tangled.org/Dich0tomy)
+- [tangled](https://tangled.org/dich0to.me)
 - [codeberg](https://codeberg.org/Dich0tomy)
 
 ## Nice reads
